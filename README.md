@@ -1,2 +1,2 @@
 # hello-world 
-making changes to a file
+Note to self: delete sytem 32 file. Then kill all humans
